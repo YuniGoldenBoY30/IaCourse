@@ -1,1 +1,1 @@
-Renombrar la carpeta sorpresaCGB2021 por Sorpresa
+Sistema para entrenada para detectar si el rostro detectado es sopresa
